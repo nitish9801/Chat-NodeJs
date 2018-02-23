@@ -1,0 +1,22 @@
+{
+  "name": "chat-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitish9801/Chat-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitish9801/Chat-NodeJs/issues"
+  },
+  "homepage": "https://github.com/nitish9801/Chat-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
