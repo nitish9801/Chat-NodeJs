@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nitish9801/Chat-NodeJs#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2"
   }
 }
